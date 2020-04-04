@@ -1,12 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>TBLand</title>
-  </head>
-  <body>
-    <h1>ToDO</h1>
-    <h2 id="steps-to-make-this-thing-badass">Steps to make this thing badass</h2>
+I"è<h2 id="steps-to-make-this-thing-badass">Steps to make this thing badass</h2>
 <ul>
   <li>resarch markdown syntx and figure out how to do things like: bookmarks, spacing, url links etceterraaa.
     <ul>
@@ -31,11 +23,8 @@
       <li>get some cool simple graphics for each one‚Ä¶</li>
       <li>center everything</li>
       <li>nice fonts for the whole webpage</li>
-      <li>extend main.html template, and think fo template for proj specfiic pages</li>
     </ul>
   </li>
   <li>Continue the jekyll tutorial</li>
 </ul>
-
-  </body>
-</html>
+:ET
