@@ -1,12 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>TBLand</title>
-  </head>
-  <body>
-    <h1>ToDO</h1>
-    <h2 id="steps-to-make-this-thing-badass">Steps to make this thing badass</h2>
+I"é<h2 id="steps-to-make-this-thing-badass">Steps to make this thing badass</h2>
 <ul>
   <li>resarch markdown syntx and figure out how to do things like: bookmarks, spacing, url links etceterraaa.
     <ul>
@@ -47,25 +39,8 @@
   <li>Global naviation bar
     <ul>
       <li>Header/Footer that allows you to go between the main spaces: Posts, Explo, and Portfolio. Posts can show up in any of the sub pages of Explo or Portfolio.</li>
-    </ul>
-  </li>
-  <li>USAGE TRACKING
-    <ul>
-      <li>Lookup how to do usage tracking in github pages</li>
-      <li><a href="https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages">add google analytics</a></li>
-    </ul>
-  </li>
-  <li>Interesting other blogs
-    <ul>
-      <li><a href="https://artsy.github.io/">atrsty?</a></li>
-      <li><a href="https://arogozhnikov.github.io/">Simple and honest, sience and programming</a></li>
-      <li><a href="https://deborah-digges.github.io/">technical blog</a></li>
-      <li><a href="https://huonw.github.io/">a man named huon</a></li>
-      <li><a href="https://joearms.github.io/#Index">Woah the first actuallly interesting one</a></li>
-      <li><a href="https://tiddlywiki.com/">hmm the ideao fa tiddlywiki sounds interesting, non linear notebook</a></li>
+      <li></li>
     </ul>
   </li>
 </ul>
-
-  </body>
-</html>
+:ET

@@ -1,12 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>TBLand</title>
-  </head>
-  <body>
-    <h1>ToDO</h1>
-    <h2 id="steps-to-make-this-thing-badass">Steps to make this thing badass</h2>
+I"<h2 id="steps-to-make-this-thing-badass">Steps to make this thing badass</h2>
 <ul>
   <li>resarch markdown syntx and figure out how to do things like: bookmarks, spacing, url links etceterraaa.
     <ul>
@@ -60,12 +52,7 @@
       <li><a href="https://artsy.github.io/">atrsty?</a></li>
       <li><a href="https://arogozhnikov.github.io/">Simple and honest, sience and programming</a></li>
       <li><a href="https://deborah-digges.github.io/">technical blog</a></li>
-      <li><a href="https://huonw.github.io/">a man named huon</a></li>
-      <li><a href="https://joearms.github.io/#Index">Woah the first actuallly interesting one</a></li>
-      <li><a href="https://tiddlywiki.com/">hmm the ideao fa tiddlywiki sounds interesting, non linear notebook</a></li>
     </ul>
   </li>
 </ul>
-
-  </body>
-</html>
+:ET

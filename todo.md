@@ -18,3 +18,19 @@ header: ToDO
     - nice fonts for the whole webpage
     - extend main.html template, and think fo template for proj specfiic pages
 - Continue the jekyll tutorial
+    - look into how to do a posts page
+        - should be able to tag posts so they show up in relevant spaces!
+        - I imagine posts to be a section at the bottom: "relevant posts"
+- Global naviation bar
+    - Header/Footer that allows you to go between the main spaces: Posts, Explo, and Portfolio. Posts can show up in any of the sub pages of Explo or Portfolio. 
+- USAGE TRACKING
+    - Lookup how to do usage tracking in github pages
+    - [add google analytics](https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages)
+
+- Interesting other blogs
+    - [atrsty?](https://artsy.github.io/)
+    - [Simple and honest, sience and programming](https://arogozhnikov.github.io/)
+    - [technical blog](https://deborah-digges.github.io/)
+    - [a man named huon](https://huonw.github.io/)
+    - [Woah the first actuallly interesting one](https://joearms.github.io/#Index)
+    - [hmm the ideao fa tiddlywiki sounds interesting, non linear notebook](https://tiddlywiki.com/)
