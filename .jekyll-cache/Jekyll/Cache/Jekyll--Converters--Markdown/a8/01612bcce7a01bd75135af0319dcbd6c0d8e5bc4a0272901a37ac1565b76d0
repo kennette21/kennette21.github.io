@@ -1,12 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>TBLand</title>
-  </head>
-  <body>
-    <h1>ToDO</h1>
-    <h2 id="steps-to-make-this-thing-badass">Steps to make this thing badass</h2>
+I"v	<h2 id="steps-to-make-this-thing-badass">Steps to make this thing badass</h2>
 <ul>
   <li>resarch markdown syntx and figure out how to do things like: bookmarks, spacing, url links etceterraaa.
     <ul>
@@ -67,6 +59,4 @@
     </ul>
   </li>
 </ul>
-
-  </body>
-</html>
+:ET

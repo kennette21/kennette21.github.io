@@ -34,3 +34,24 @@ header: ToDO
     - [a man named huon](https://huonw.github.io/)
     - [Woah the first actuallly interesting one](https://joearms.github.io/#Index)
     - [hmm the ideao fa tiddlywiki sounds interesting, non linear notebook](https://tiddlywiki.com/)
+    - [Misi's blog](https://xn--kles-5qa.hu/)
+
+# Bright Ideas
+- Have a still thumbnail of me
+    - on mouse over, it plays a short gif of one of these things:
+        - kendama tricks
+            - light house
+            - juggle
+            - flick
+            - big, small, spike
+            - earth turn
+        - juggling
+            - 3, 2, 4
+            - soccer tricks
+        - Shooting basketball
+- Have a timeline type thing which maps out my travels
+    - look for a software which can draw lines on a map based on location data... lat long..?
+    - write a short list of major traveling adventures
+        - graduation -> BVI for sailing course -> antigua -> guatemala -> budapest
+        - US -> A5 test flights -> montana funness
+        - Iceland, Ibiza, Barcelona
