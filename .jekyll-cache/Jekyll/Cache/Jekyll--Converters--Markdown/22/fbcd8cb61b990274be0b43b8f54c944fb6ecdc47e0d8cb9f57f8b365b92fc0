@@ -1,12 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>TBLand</title>
-  </head>
-  <body>
-    <h1>ToDO</h1>
-    <h2 id="steps-to-make-this-thing-badass">Steps to make this thing badass</h2>
+I"À<h2 id="steps-to-make-this-thing-badass">Steps to make this thing badass</h2>
 <ul>
   <li>Create a thoughts page</li>
   <li>Top navigator between portfolio, explore, thoughts</li>
@@ -138,6 +130,4 @@
   </li>
 </ul>
 
-
-  </body>
-</html>
+:ET

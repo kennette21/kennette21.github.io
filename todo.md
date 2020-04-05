@@ -3,14 +3,8 @@ layout: main
 header: ToDO
 ---
 ## Steps to make this thing badass
-- resarch markdown syntx and figure out how to do things like: bookmarks, spacing, url links etceterraaa.
-    - how to drop html into md?
-- List of all projects on main page: 
-    - extend projects
-    - each project link to it's own specific page
-- Create the TBExplore space
-    - Create a thoughts/writings page
-- Figure out how to connect TBExplo and TBPort in the header
+- Create a thoughts page
+- Top navigator between portfolio, explore, thoughts
 - Do some cool CSS to the Project divs
     - make them grow and shrink on mouse over
     - get some cool simple graphics for each one...
@@ -66,3 +60,17 @@ header: ToDO
     - very short summary of my interpritation
     - signup for a bi-anual email reminder to watch this video
 - 
+
+
+### Done stuff
+- resarch markdown syntx and figure out how to do things like: bookmarks, spacing, url links etceterraaa.
+    - how to drop html into md? 
+> **ANSWER:** yes you can put html directly into markdown, no need to indicate a switch
+
+- List of all projects on main page: 
+    - extend projects
+- Create the TBExplore space
+
+- Each Project should link to its own space.
+    - that one took a while.
+

@@ -1,13 +1,7 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>TBLand</title>
-  </head>
-  <body>
-    <h1>ToDO</h1>
-    <h2 id="steps-to-make-this-thing-badass">Steps to make this thing badass</h2>
+I"v<h2 id="steps-to-make-this-thing-badass">Steps to make this thing badass</h2>
+
 <ul>
+  <li>Each Project should link to its own space.</li>
   <li>Create a thoughts page</li>
   <li>Top navigator between portfolio, explore, thoughts</li>
   <li>Do some cool CSS to the Project divs
@@ -128,16 +122,7 @@
       <li>extend projects</li>
     </ul>
   </li>
-  <li>
-    <p>Create the TBExplore space</p>
-  </li>
-  <li>Each Project should link to its own space.
-    <ul>
-      <li>that one took a while.</li>
-    </ul>
-  </li>
+  <li>Create the TBExplore space</li>
 </ul>
 
-
-  </body>
-</html>
+:ET

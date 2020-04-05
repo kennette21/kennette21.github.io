@@ -1,15 +1,17 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>TBLand</title>
-  </head>
-  <body>
-    <h1>ToDO</h1>
-    <h2 id="steps-to-make-this-thing-badass">Steps to make this thing badass</h2>
+I"l<h2 id="steps-to-make-this-thing-badass">Steps to make this thing badass</h2>
 <ul>
-  <li>Create a thoughts page</li>
-  <li>Top navigator between portfolio, explore, thoughts</li>
+  <li>List of all projects on main page:
+    <ul>
+      <li>extend projects</li>
+      <li>each project link to it’s own specific page</li>
+    </ul>
+  </li>
+  <li>Create the TBExplore space
+    <ul>
+      <li>Create a thoughts/writings page</li>
+    </ul>
+  </li>
+  <li>Figure out how to connect TBExplo and TBPort in the header</li>
   <li>Do some cool CSS to the Project divs
     <ul>
       <li>make them grow and shrink on mouse over</li>
@@ -116,28 +118,11 @@
 <ul>
   <li>resarch markdown syntx and figure out how to do things like: bookmarks, spacing, url links etceterraaa.
     <ul>
-      <li>how to drop html into md?
-        <blockquote>
-          <p><strong>ANSWER:</strong> yes you can put html directly into markdown, no need to indicate a switch</p>
-        </blockquote>
-      </li>
-    </ul>
-  </li>
-  <li>List of all projects on main page:
-    <ul>
-      <li>extend projects</li>
-    </ul>
-  </li>
-  <li>
-    <p>Create the TBExplore space</p>
-  </li>
-  <li>Each Project should link to its own space.
-    <ul>
-      <li>that one took a while.</li>
+      <li>how to drop html into md?</li>
     </ul>
   </li>
 </ul>
 
+<p><strong>ANSWER:</strong> yes you can put html directly into markdown, no need to indicate a switch</p>
 
-  </body>
-</html>
+:ET
