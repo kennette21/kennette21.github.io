@@ -49,9 +49,20 @@ header: ToDO
             - 3, 2, 4
             - soccer tricks
         - Shooting basketball
+    - When in a particular space of the portfolio, only show relivant vidoes, but on overview show a random selection of any of them.
 - Have a timeline type thing which maps out my travels
     - look for a software which can draw lines on a map based on location data... lat long..?
     - write a short list of major traveling adventures
         - graduation -> BVI for sailing course -> antigua -> guatemala -> budapest
         - US -> A5 test flights -> montana funness
         - Iceland, Ibiza, Barcelona
+- go through google keep notes: espeiclaly thoughts IN BATCHES, and use them for inspiration/future posts/topics
+
+# Post Ideas
+- The Positive Feedback loop
+    - why i like kendama, juggling, shooting basketball, meditation
+    - creating situations to fill your body with happy feelings of accomplishment
+- This is Water
+    - very short summary of my interpritation
+    - signup for a bi-anual email reminder to watch this video
+- 
