@@ -5,6 +5,7 @@ header: ToDO
 ## Steps to make this thing badass
 - Create a thoughts page
 - Top navigator between portfolio, explore, thoughts
+- Introduce multiple authors to the page...? Could ask willie for a colab type thing.. maybe if he writes a piece that ties together with something i am doing. A particular project maybe?? They could even write it at the bottom of the project page! How is that different from a comment? Differentiate the two maybe. [multiple authors link](https://jekyllrb.com/docs/step-by-step/09-collections/)
 - Do some cool CSS to the Project divs
     - make them grow and shrink on mouse over
     - get some cool simple graphics for each one...
@@ -20,6 +21,7 @@ header: ToDO
 - USAGE TRACKING
     - Lookup how to do usage tracking in github pages
     - [add google analytics](https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages)
+- consider SEO and proper sitemapping so this could be discovered [link](https://jekyllrb.com/docs/step-by-step/10-deployment/)
 
 - Interesting other blogs
     - [atrsty?](https://artsy.github.io/)

@@ -1,36 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>TBLand</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-    <h1>ToDO</h1>
-    <nav>
-    
-      <a href="/" >
-        Porfolio
-      </a>
-    
-      <a href="/explore.html" >
-        Explore
-      </a>
-    
-      <a href="/todo.html" class="current">
-        Todos
-      </a>
-    
-      <a href="/thoughts.html" >
-        Thoughts
-      </a>
-    
-      <a href="/about.html" >
-        About
-      </a>
-    
-  </nav>
-    <h2 id="steps-to-make-this-thing-badass">Steps to make this thing badass</h2>
+I"<h2 id="steps-to-make-this-thing-badass">Steps to make this thing badass</h2>
 <ul>
   <li>Create a thoughts page</li>
   <li>Top navigator between portfolio, explore, thoughts</li>
@@ -166,6 +134,4 @@
   </li>
 </ul>
 
-
-  </body>
-</html>
+:ET

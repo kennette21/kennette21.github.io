@@ -1,0 +1,10 @@
+- name: Porfolio
+  link: /
+- name: Explore
+  link: /explore.html
+- name: Todos
+  link: /todo.html
+- name: Thoughts
+  link: /thoughts.html
+- name: About
+  link: /about.html
