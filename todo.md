@@ -3,8 +3,7 @@ layout: main
 header: ToDO
 ---
 ## Steps to make this thing badass
-- Create a thoughts page
-- Top navigator between portfolio, explore, thoughts
+- remove this if .jekyll-cache stops going into git. fix the .gitignore if not.
 - Introduce multiple authors to the page...? Could ask willie for a colab type thing.. maybe if he writes a piece that ties together with something i am doing. A particular project maybe?? They could even write it at the bottom of the project page! How is that different from a comment? Differentiate the two maybe. [multiple authors link](https://jekyllrb.com/docs/step-by-step/09-collections/)
 - Do some cool CSS to the Project divs
     - make them grow and shrink on mouse over
@@ -12,10 +11,12 @@ header: ToDO
     - center everything
     - nice fonts for the whole webpage
     - extend main.html template, and think fo template for proj specfiic pages
-- Continue the jekyll tutorial
-    - look into how to do a posts page
-        - should be able to tag posts so they show up in relevant spaces!
-        - I imagine posts to be a section at the bottom: "relevant posts"
+    - make the Portfolio separated from the rest of the nonses maybe.. descretly separated
+- should be able to tag posts so they show up in relevant spaces!
+    - in the data at the top of a file I can add tags. Should keep the list of tags in the _data folder probably.
+        - could add a dropdown to a posts page to extend the tags afterwards!
+        - even a text entry with ability to add new tags on the fly.
+    - I imagine posts to be a section at the bottom: "relevant posts"
 - Global naviation bar
     - Header/Footer that allows you to go between the main spaces: Posts, Explo, and Portfolio. Posts can show up in any of the sub pages of Explo or Portfolio. 
 - USAGE TRACKING
@@ -72,6 +73,10 @@ header: ToDO
 - List of all projects on main page: 
     - extend projects
 - Create the TBExplore space
+- Continue the jekyll tutorial
+    - look into how to do a posts page
+- Create thoughts, explore, etc
+- navigation bar to jump between main pages
 
 - Each Project should link to its own space.
     - that one took a while.
