@@ -5,3 +5,12 @@
       </a>
     {% endfor %}
   </nav>
+  <div class="nav-container">
+    {% for item in site.data.navigation %}
+      <div {% if page.url == item.link %}class="current-nav-item"{% else %}class="nav-item"{% endif %}>
+        <a href="{{ item.link }}">
+          {{ item.name }}
+        </a>
+      </div>
+    {% endfor %}
+  </div>
