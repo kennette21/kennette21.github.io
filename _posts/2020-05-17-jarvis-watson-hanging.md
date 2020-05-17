@@ -53,5 +53,6 @@ action words = [ON, BEGIN, ] ** are all action words unique to the category thou
 	- 3D print mount for PI HQ Cam, or Pixel. (BOTH?)
 
 
-
+## P.S.
+Working on this little pi is kind of fun. I do not know how to use the system as well as the mac and it is a bit lower lever. Using Vim and thi bare bones Thonny Editor. Feels good. Kind of get lost on some tangents trying to improve my process. Also makes me settle for simple productivity like Vim. Would like to get to the point where I am most efficient with tools like this.
 
