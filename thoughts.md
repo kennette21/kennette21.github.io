@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: main
 title: Thoughts
 ---
 <h1>Latest Posts</h1>
-{% include navigation.html %}
 
 <ul>
   {% for post in site.posts %}
