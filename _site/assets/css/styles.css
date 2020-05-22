@@ -2,10 +2,14 @@
 
 .nav-container { display: flex; }
 
-.nav-item { display: flex; width: 80px; height: 80px; background-color: beige; align-items: center; }
+.nav-item { display: flex; width: 80px; height: 80px; background-color: beige; align-items: center; margin: 2px 20px; }
 
 .nav-item:hover { background-color: burlywood; }
 
-.current-nav-item { display: flex; width: 80px; height: 80px; background-color: darkorange; }
+.nav-item.active { background-color: darkorange; }
+
+.current-nav-item { display: flex; width: 80px; height: 80px; background-color: darkorange; align-items: center; }
+
+.nav-item-text { text-align: center; }
 
 /*# sourceMappingURL=styles.css.map */
