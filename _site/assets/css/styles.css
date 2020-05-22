@@ -2,7 +2,7 @@
 
 .nav-container { display: flex; }
 
-.nav-item { display: flex; width: 80px; height: 80px; background-color: skyblue; align-items: center; margin: 2px 20px; text-decoration: black; }
+.nav-item { display: flex; width: 80px; height: 30px; background-color: skyblue; align-items: center; margin: 2px 20px; text-decoration: black; }
 
 .nav-item:hover { background-color: burlywood; text-decoration: black; }
 

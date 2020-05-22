@@ -7,7 +7,7 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";",
-		".page-container {\n  display: flex;\n  align-items: center;\n  flex-direction: column;\n}\n\n.nav-container {\n  display: flex;\n}\n\n.nav-item {\n  display: flex;\n  width: 80px;\n  height: 80px;\n  background-color: skyblue;\n  align-items: center;\n  margin: 2px 20px;\n  text-decoration: lighten($color: #000000, $amount: 0);\n\n  &:hover {\n    background-color: burlywood;\n    text-decoration: darken($color: #000000, $amount: 0);\n  }\n\n  &.active {\n    background-color: darkorange;\n  }\n}\n\n.nav-item-text {\n  text-align: center;\n  width: 100%;\n}\n"
+		".page-container {\n  display: flex;\n  align-items: center;\n  flex-direction: column;\n}\n\n.nav-container {\n  display: flex;\n}\n\n.nav-item {\n  display: flex;\n  width: 80px;\n  height: 30px;\n  background-color: skyblue;\n  align-items: center;\n  margin: 2px 20px;\n  text-decoration: lighten($color: #000000, $amount: 0);\n\n  &:hover {\n    background-color: burlywood;\n    text-decoration: darken($color: #000000, $amount: 0);\n  }\n\n  &.active {\n    background-color: darkorange;\n  }\n}\n\n.nav-item-text {\n  text-align: center;\n  width: 100%;\n}\n"
 	],
 	"names": [],
 	"mappings": "ACAA,AAAA,eAAe,CAAC,EACd,OAAO,EAAE,IAAI,EACb,WAAW,EAAE,MAAM,EACnB,cAAc,EAAE,MAAM,GACvB;;AAED,AAAA,cAAc,CAAC,EACb,OAAO,EAAE,IAAI,GACd;;AAED,AAAA,SAAS,CAAC,EACR,OAAO,EAAE,IAAI,EACb,KAAK,EAAE,IAAI,EACX,MAAM,EAAE,IAAI,EACZ,gBAAgB,EAAE,OAAO,EACzB,WAAW,EAAE,MAAM,EACnB,MAAM,EAAE,QAAQ,EAChB,eAAe,EAAkB,KAAO,GAUzC;;AAjBD,AASE,SATO,AASN,MAAM,CAAC,EACN,gBAAgB,EAAE,SAAS,EAC3B,eAAe,EAAiB,KAAO,GACxC;;AAZH,AAcE,SAdO,AAcN,OAAO,CAAC,EACP,gBAAgB,EAAE,UAAU,GAC7B;;AAGH,AAAA,cAAc,CAAC,EACb,UAAU,EAAE,MAAM,EAClB,KAAK,EAAE,IAAI,GACZ"
