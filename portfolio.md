@@ -1,10 +1,9 @@
 ---
 layout: main
 header: TBPortfolio
+permalink: /
 --- 
 <h2>This is a list of Projects</h2>
-
-To see TB Explore, click [here](explore.html)
 
 [Music Table](/projects/music-table.html)
 
