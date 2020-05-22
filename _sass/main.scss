@@ -14,9 +14,14 @@
   height: 80px;
   background-color: beige;
   align-items: center;
+  margin: 2px 20px;
 
   &:hover {
     background-color: burlywood;
+  }
+
+  &.active {
+    background-color: darkorange;
   }
 }
 
@@ -25,4 +30,9 @@
   width: 80px;
   height: 80px;
   background-color: darkorange;
+  align-items: center;
+}
+
+.nav-item-text {
+  text-align: center;
 }
