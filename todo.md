@@ -3,12 +3,9 @@ layout: main
 header: ToDO
 ---
 ## Steps to make this thing badass
-- remove this if .jekyll-cache stops going into git. fix the .gitignore if not.
 - Introduce multiple authors to the page...? Could ask willie for a colab type thing.. maybe if he writes a piece that ties together with something i am doing. A particular project maybe?? They could even write it at the bottom of the project page! How is that different from a comment? Differentiate the two maybe. [multiple authors link](https://jekyllrb.com/docs/step-by-step/09-collections/)
 - Do some cool CSS to the Project divs
-    - make them grow and shrink on mouse over
     - get some cool simple graphics for each one...
-    - center everything
     - nice fonts for the whole webpage
     - extend main.html template, and think fo template for proj specfiic pages
     - make the Portfolio separated from the rest of the nonses maybe.. descretly separated
@@ -17,8 +14,7 @@ header: ToDO
         - could add a dropdown to a posts page to extend the tags afterwards!
         - even a text entry with ability to add new tags on the fly.
     - I imagine posts to be a section at the bottom: "relevant posts"
-- Global naviation bar
-    - Header/Footer that allows you to go between the main spaces: Posts, Explo, and Portfolio. Posts can show up in any of the sub pages of Explo or Portfolio. 
+- FOOTER!
 - USAGE TRACKING
     - Lookup how to do usage tracking in github pages
     - [add google analytics](https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages)
@@ -80,4 +76,13 @@ header: ToDO
 
 - Each Project should link to its own space.
     - that one took a while.
+
+- remove this if .jekyll-cache stops going into git. fix the .gitignore if not.
+
+- Do some cool CSS to the Project divs
+    - X make them grow and shrink on mouse over
+    - - center everything
+
+- Global naviation bar
+    - Header/Footer that allows you to go between the main spaces: Posts, Explo, and Portfolio. Posts can show up in any of the sub pages of Explo or Portfolio. 
 
