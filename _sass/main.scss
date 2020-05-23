@@ -47,6 +47,8 @@
   align-content: space-around;
 }
 
+// todo: convert to topic parent and explore/profile children. same for container
+
 .explore-topic {
   display: flex;
   margin: 5px;
@@ -59,3 +61,18 @@
 
   align-items: center;
 }
+
+.profile-topic {
+  display: flex;
+  margin: 5px;
+  justify-content: center;
+  height: 140px;
+  width: 140px;
+  border-radius: 20px;
+  background-color: lightgray;
+  flex: 0 1 calc(30% - 8px);
+
+  align-items: center;
+}
+
+@import "wabble";

@@ -1,6 +1,6 @@
 ---
 layout: main
-header: about page
+header: What is this?
 ---
 ## This is the about page
 ### The concept

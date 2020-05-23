@@ -1,9 +1,7 @@
 ---
 layout: main
-title: Thoughts
+header: Thoughts
 ---
-<h1>Latest Posts</h1>
-
 <ul>
   {% for post in site.posts %}
     <li>

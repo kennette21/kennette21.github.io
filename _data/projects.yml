@@ -14,3 +14,5 @@
   display-name: E Democracy Build on Etherum
 - name: snap-buddy
   display-name: Robotic Filming Tripod
+
+  # todo: add link url field to each one and figure out if you can use vars from inside this file
