@@ -1,7 +1,6 @@
 ---
 layout: main
 header: TBPortfolio
-permalink: /
 --- 
 <h2>This is a list of Projects</h2>
 <!-- keeping this aruond because it was short and sweet-->
