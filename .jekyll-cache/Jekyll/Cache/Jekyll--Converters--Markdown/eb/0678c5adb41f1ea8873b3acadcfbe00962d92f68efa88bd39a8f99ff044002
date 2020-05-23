@@ -1,51 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>TBLand</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-    <div class="page-container">
-      <h1>TBPortfolio</h1>
-      <nav>
-  </nav>
-  <div class="nav-container">
-    
-      <a href="/" class="nav-item active">
-        <div class="nav-item-text">
-          Porfolio
-        </div>
-    </a>
-    
-      <a href="/explore.html" class="nav-item">
-        <div class="nav-item-text">
-          Explore
-        </div>
-    </a>
-    
-      <a href="/todo.html" class="nav-item">
-        <div class="nav-item-text">
-          Todos
-        </div>
-    </a>
-    
-      <a href="/thoughts.html" class="nav-item">
-        <div class="nav-item-text">
-          Thoughts
-        </div>
-    </a>
-    
-      <a href="/about.html" class="nav-item">
-        <div class="nav-item-text">
-          About
-        </div>
-    </a>
-    
-
-    
-  </div>
-      <h2>This is a list of Projects</h2>
+I" <h2>This is a list of Projects</h2>
 
 <div class="explore-container">
 
@@ -82,7 +35,4 @@
     </a>
 
 </div>
-
-    </div>
-  </body>
-</html>
+:ET
