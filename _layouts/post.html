@@ -1,8 +1,18 @@
----
-layout: default
----
-<h1>{{ page.title }}</h1>
-<a href="/thoughts.html">All Thoughts</a>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>TB thought</title>
+        <link rel="stylesheet" href="/assets/css/styles.css">
+    </head>
+    <div class="page-container">
+        {% include navigation.html %}
+        <div class="post-container">
+            <h1>{{ page.title }}</h1>
 
-{{ content }}
+            <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+    
+            {{ content }}
+        </div>
+    </div>
+</html>

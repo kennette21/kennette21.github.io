@@ -4,6 +4,11 @@
   flex-direction: column;
 }
 
+.post-container {
+  align-items: flex-start;
+  margin-left: 40px;
+}
+
 .nav-container {
   display: flex;
 }
