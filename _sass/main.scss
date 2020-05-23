@@ -37,3 +37,25 @@
     color: darkgrey;
   }
 }
+
+.explore-container {
+  width: 80%;
+  height: 80%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: space-around;
+}
+
+.explore-topic {
+  display: flex;
+  margin: 5px;
+  justify-content: center;
+  height: 140px;
+  width: 140px;
+  border-radius: 70px;
+  background-color: cornsilk;
+  flex: 0 1 calc(20% - 8px);
+
+  align-items: center;
+}
