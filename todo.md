@@ -3,6 +3,7 @@ layout: main
 header: ToDO
 ---
 ## Steps to make this thing badass
+- Each page has a TODO section and it comes from a data file. An individual TODO can have status and tags which has it show up in certain places. status: done, won't do, todo. tags: projects, project title, UI, general (automatic)
 - Introduce multiple authors to the page...? Could ask willie for a colab type thing.. maybe if he writes a piece that ties together with something i am doing. A particular project maybe?? They could even write it at the bottom of the project page! How is that different from a comment? Differentiate the two maybe. [multiple authors link](https://jekyllrb.com/docs/step-by-step/09-collections/)
 - Do some cool CSS to the Project divs
     - get some cool simple graphics for each one...

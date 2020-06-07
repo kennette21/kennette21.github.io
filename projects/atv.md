@@ -1,20 +1,18 @@
 ---
 layout: project
 projectTitle: E-ATV
-rootTitle: TB Land
 --- 
 ## Summary
 I took apart a 90s Yamaha Blaster, and converted it to an all electric 4 wheeler.
 
-#### After taking off covers, and wheels; the fun began
 ![e-atv](https://tbportfolio.imfast.io/portfolio/e-atv/gas-frame-close.jpg)
+#### After taking off covers, and wheels; the fun began
 
-#### Stripped all the gas components
 ![e-atv](https://tbportfolio.imfast.io/portfolio/e-atv/stripped-down.jpg)
+#### Stripped all the gas components
 
 #### Sorted all the wiring and mounted all the electronics... Unforunately not much documentation found at the moment...
 
-### Maiden Voyage
 <iframe 
     width="420" 
     height="315"
@@ -23,8 +21,10 @@ I took apart a 90s Yamaha Blaster, and converted it to an all electric 4 wheeler
     allowfullscreen>
 </iframe>
 
-#### Beatufiul Electricity
+### Maiden Voyage
+
 ![e-atv](https://tbportfolio.imfast.io/portfolio/e-atv/e-atv-solar.jpg)
+#### Beatufiul Electricity
 
 ## What I learned
 - How to order batteries, motors, and controllers for electric vehicles

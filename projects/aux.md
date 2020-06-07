@@ -1,9 +1,8 @@
 ---
 layout: project
 projectTitle: Aux
-rootTitle: TB Land
 --- 
-![](https://tbportfolio.imfast.io/portfolio/aux/AuxOverview.png)
+![](https://tbportfolio.imfast.io/portfolio/aux/Aux%20(1).png)
 ### Built by Jasen Choi and Tom Bean
 While studying abroad in Budapest at Aquincum Institue of Technology, my roomate and I built a music organization and sharing application. The initial concept was to make listing to music in groups more efficient. One phone is connected to the speaker, but anyone in the room could have good music recomendations for the occasion.
 
