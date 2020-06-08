@@ -7,7 +7,7 @@ header: TB Explo
 <div class="explore-container">
 {% for item in site.data.explore-topics %}
     <div class="explore topic wobble-vertical-on-hover">
-        {{ item.name }}
+        <a href="explores/{{item.name}}.html">{{ item.name }}</a>
     </div>
 {% endfor %}
 </div>
