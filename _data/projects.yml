@@ -1,18 +1,26 @@
 - name: music-table
   display-name: Music Table
+  status: dormant
 - name: jarvis
   display-name: Jarvis, Conversing Computer
+  status: development
 - name: ifc
   display-name: Iowa Food Coop
+  status: development
 - name: powwow
   display-name: PowWow, Live Beyond the Screen
+  status: dormant
 - name: aux
   display-name: Aux
+  status: dormant
 - name: atv
   display-name: Electric ATV Conversion
+  status: dormant
 - name: e-democracy
   display-name: E Democracy Build on Etherum
+  status: dormant
 - name: snap-buddy
   display-name: Robotic Filming Tripod
+  status: development
 
   # todo: add link url field to each one and figure out if you can use vars from inside this file

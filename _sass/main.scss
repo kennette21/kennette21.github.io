@@ -1,28 +1,26 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+
+  h1 {
+    font-weight: 700;
+  }
+
+  h2 {
+    font-weight: 600;
+  }
+}
+
 .page-container {
   display: flex;
   align-items: center;
   flex-direction: column;
+  margin: 2% 10%;
 }
 
 .post-container {
   align-items: flex-start;
   margin-left: 40px;
-}
-
-.nav-container {
-  display: flex;
-}
-
-.project-content {
-  width: 70%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
-  p {
-    img[alt=e-atv] { width: 100%; }
-  }
 }
 
 .nav-item {
@@ -55,9 +53,51 @@
   }
 }
 
+.nav-container {
+  display: flex;
+}
+
+.project-content {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  p {
+    img[alt=e-atv] { width: 100%; }
+  }
+}
+
 .explore-container {
-  width: 80%;
-  height: 80%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: space-around;
+}
+
+.portfolio-container {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
+  align-content: space-around;
+}
+
+.separator {
+  margin: 30px 0px;
+  border: 4px;
+  background: darkslategray;
+  height: 2px;
+}
+
+.active-projects-list {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: space-around;
+}
+
+.dormant-projects-list {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
@@ -66,30 +106,48 @@
 
 // todo: convert to topic parent and explore/profile children. same for container
 
-.explore-topic {
+.topic {
   display: flex;
   margin: 5px;
   justify-content: center;
   height: 140px;
   width: 140px;
-  border-radius: 70px;
-  background-color: cornsilk;
-  flex: 0 1 calc(20% - 8px);
-
   align-items: center;
-}
+  text-decoration: none;
+  color: black;
+  -webkit-transition: background-color .3s linear, color .2s linear;
+  -ms-transition: background-color .3s linear, color .2s linear;
+  transition: background-color .3s linear, color .2s linear;
 
-.profile-topic {
-  display: flex;
-  margin: 5px;
-  justify-content: center;
-  height: 140px;
-  width: 140px;
-  border-radius: 20px;
-  background-color: lightgray;
-  flex: 0 1 calc(30% - 8px);
+  &.explore {
+    border-radius: 70px;
+    background-color: cornsilk;
+    flex: 0 1 calc(20% - 8px);
 
-  align-items: center;
+    &:hover {
+      background-color: cornflowerblue;
+      color: white;
+    }
+  }
+
+  &.profile {
+    border-radius: 20px;
+    background-color: lightgray;
+    flex: 0 1 calc(30% - 8px);
+    font-size: 16px;
+
+    &:hover {
+      background-color: gray;
+      color: white;
+    }
+  }
+
+  &.dormant {
+    height: 80px;
+    width: 80px;
+    font-size: 12px;
+    flex: 0 1 calc(15% - 8px);
+  }
 }
 
 @import "wabble";
