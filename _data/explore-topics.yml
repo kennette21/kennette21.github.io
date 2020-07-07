@@ -1,9 +1,18 @@
 - name: J-Ball
+  hidden: false
 - name: Audiobooks
+  hidden: false
 - name: Youtube
+  hidden: true
 - name: Music
+  hidden: false
 - name: Kendama
+  hidden: true
 - name: Infant projects
+  hidden: true
 - name: Stimulation and Inspiration
+  hidden: true
 - name: Doodles
+  hidden: true
 - name: Pictures
+  hidden: true

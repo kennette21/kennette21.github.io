@@ -69,39 +69,31 @@
   }
 }
 
+.header {
+  margin-bottom: 20px;
+}
+
 .explore-container {
   display: flex;
-  flex-flow: row wrap;
-  justify-content: space-around;
-  align-content: space-around;
+  flex-flow: column;
 }
 
 .portfolio-container {
   display: flex;
   flex-flow: column;
-  justify-content: space-around;
-  align-content: space-around;
 }
 
 .separator {
-  margin: 30px 0px;
-  border: 4px;
-  background: darkslategray;
-  height: 2px;
+  margin: 2px 0px;
+  border: 2px;
+  background: #838383;
+  height: 1px;
 }
 
 .active-projects-list {
   display: flex;
-  flex-flow: row wrap;
-  justify-content: space-around;
-  align-content: space-around;
-}
-
-.dormant-projects-list {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: space-around;
-  align-content: space-around;
+  flex-flow: column;
+  border: 2px;
 }
 
 // todo: convert to topic parent and explore/profile children. same for container
@@ -110,8 +102,7 @@
   display: flex;
   margin: 5px;
   justify-content: center;
-  height: 140px;
-  width: 140px;
+  height: 60px;
   align-items: center;
   text-decoration: none;
   color: black;
@@ -120,25 +111,23 @@
   transition: background-color .3s linear, color .2s linear;
 
   &.explore {
-    border-radius: 70px;
-    background-color: cornsilk;
+    border-radius: 8px;
     flex: 0 1 calc(20% - 8px);
 
     &:hover {
-      background-color: cornflowerblue;
-      color: white;
+      background-color: rgb(186, 186, 186);
+      color: #222222;
     }
   }
 
   &.profile {
-    border-radius: 20px;
-    background-color: lightgray;
-    flex: 0 1 calc(30% - 8px);
+    border-radius: 8px;
+    flex: 0 1 1;
     font-size: 16px;
 
     &:hover {
-      background-color: gray;
-      color: white;
+      background-color: rgb(186, 186, 186);
+      color:  #222222;
     }
   }
 
