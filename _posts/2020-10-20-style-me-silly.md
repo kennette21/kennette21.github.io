@@ -21,4 +21,12 @@ moving to the strategy of modifying fancy background to maybe just be a color st
 alright sort of went iwth a floating box instead.. making some progress but nothing crazy :/... i guess this will just be a work in progress. 
 
 over and out
+..............
 
+And we back the next day! gonna keep plugging away
+
+First step is making this damn svg appear
+
+ended up styling quite a bit :). looks a bit crazy, but i guess better than before!
+
+now going to quickly setup the firebase deployment, and good to gooo!
