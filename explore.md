@@ -7,7 +7,7 @@ header: TB Explo
     <div class="active-projects-list">
         {% for item in site.data.explore-topics %}
             {% unless item.hidden %}
-                <a class="explore topic wobble-vertical-on-hover" href="explores/{{item.name}}.html">
+                <a class="topic explore wobble-vertical-on-hover" href="explores/{{item.name}}.html">
                     {{ item.name }}
                 </a>
                 <div class="separator"></div>

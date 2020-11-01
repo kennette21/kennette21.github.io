@@ -1,6 +1,7 @@
 ---
 layout: project
 projectTitle: Snap Buddy
+tag: snap-buddy
 --- 
 I created a robotic mount for a camera tripod in order to take more interesting and dynamic Snap Chats.
 

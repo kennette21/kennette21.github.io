@@ -1,6 +1,7 @@
 ---
 layout: project
 projectTitle: E-ATV
+tag: e-atv
 --- 
 ## Summary
 I took apart a 90s Yamaha Blaster, and converted it to an all electric 4 wheeler.

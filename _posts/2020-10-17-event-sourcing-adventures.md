@@ -1,8 +1,7 @@
-
 ---
 layout: post
 author: tom
-tag: culture-blog
+tags: culture-blog
 ---
 
 # event-sourcing-adventures

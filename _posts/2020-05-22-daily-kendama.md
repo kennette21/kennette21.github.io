@@ -1,3 +1,9 @@
+---
+layout: post
+author: tom
+tags: kendama
+---
+
 # Kendama tricks
 There are different _categories_ or _classes_ of tricks if you will. It depends on your grip, which part of the Kendama you hold, and what movemnts you perform. 
 

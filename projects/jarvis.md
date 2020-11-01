@@ -1,6 +1,7 @@
 ---
-layout: main
-header: Jarvis
+layout: project
+projectTitle: Jarvis
+tag: jarvis
 --- 
 Yes, the Jarvis from Iron Man. No, it is not original. Yes Jarvis from Iron Man deserves to be envied. 
 

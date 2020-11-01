@@ -1,6 +1,7 @@
 ---
 layout: post
 author: tom
+tags: portfolio
 ---
 
 # Simplify. 

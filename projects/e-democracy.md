@@ -1,6 +1,7 @@
 ---
-layout: main
-header: E-Democracy
+layout: project
+projectTitle: E-Democracy
+tag: e-democracy
 --- 
 
 As my senior thesis at Middlebury College I built a proof of concept for a decentralaized voting platform built ontop of Ethereum

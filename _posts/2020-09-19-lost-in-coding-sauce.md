@@ -1,6 +1,7 @@
 ---
 layout: post
 author: tom
+tags: culture-blog soccer
 ---
 
 # Lost in the coding sauce

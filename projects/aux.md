@@ -1,6 +1,7 @@
 ---
 layout: project
 projectTitle: Aux
+tag: aux
 --- 
 ![](https://tbportfolio.imfast.io/portfolio/aux/Aux%20(1).png)
 ### Built by Jasen Choi and Tom Bean

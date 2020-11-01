@@ -1,6 +1,7 @@
 ---
-layout: main
-header: Iowa Food Cooperative
+layout: project
+projectTitle: Iowa Food Cooperative
+tag: ifc
 --- 
 
 # IFC

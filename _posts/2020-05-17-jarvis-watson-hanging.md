@@ -1,12 +1,13 @@
 ---
 layout: post
 author: tom
+tags: jarvis
 ---
 
 ## Discoverd Watson Speech to Text Service
 Easy enough to use. things to figure
 
-- [ ] How to get from audio in mic to watson.
+- [x] How to get from audio in mic to watson.
 
 Things to consider:
 watson detect options:

@@ -1,3 +1,6 @@
+- name: culture-blog
+  display-name: The Culture Blog
+  status: development
 - name: music-table
   display-name: Music Table
   status: dormant

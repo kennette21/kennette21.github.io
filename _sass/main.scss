@@ -9,13 +9,63 @@
   h2 {
     font-weight: 600;
   }
+
+  ul {
+    list-style-type: none;
+    padding: 1px;
+
+    li {
+      margin: 10px 0;
+    }
+  }
 }
 
 .page-container {
+  max-width: 1000px;
   display: flex;
   align-items: center;
   flex-direction: column;
-  margin: 2% 10%;
+  margin: auto
+}
+
+.project-and-posts {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin-right: 5px;
+}
+
+.posts-container {
+  padding-left: 12px;
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  border-left: dashed 2px rgb(180, 236, 252);
+  margin: 20px 0;
+}
+
+.project-content {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 10px;
+
+  p {
+    img[alt=e-atv] { width: 100%; }
+  }
+}
+
+.portfolio-container {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
 }
 
 .post-container {
@@ -57,18 +107,6 @@
   display: flex;
 }
 
-.project-content {
-  width: 70%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
-  p {
-    img[alt=e-atv] { width: 100%; }
-  }
-}
-
 .header {
   margin-bottom: 20px;
 }
@@ -78,30 +116,28 @@
   flex-flow: column;
 }
 
-.portfolio-container {
-  display: flex;
-  flex-flow: column;
-}
-
 .separator {
   margin: 2px 0px;
   border: 2px;
-  background: #838383;
+  background: rgb(228, 228, 228);
   height: 1px;
+  display: none
 }
 
 .active-projects-list {
   display: flex;
   flex-flow: column;
+  width: 80%;
   border: 2px;
 }
 
 // todo: convert to topic parent and explore/profile children. same for container
 
 .topic {
+  padding-left: 16px;
   display: flex;
   margin: 5px;
-  justify-content: center;
+  // justify-content: center;
   height: 60px;
   align-items: center;
   text-decoration: none;
@@ -115,7 +151,7 @@
     flex: 0 1 calc(20% - 8px);
 
     &:hover {
-      background-color: rgb(186, 186, 186);
+      background-color: rgb(228, 228, 228);
       color: #222222;
     }
   }
@@ -126,7 +162,7 @@
     font-size: 16px;
 
     &:hover {
-      background-color: rgb(186, 186, 186);
+      background-color: rgb(242, 242, 242);
       color:  #222222;
     }
   }

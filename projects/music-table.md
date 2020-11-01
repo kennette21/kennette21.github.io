@@ -1,6 +1,7 @@
 ---
 layout: project
 projectTitle: The Music Table
+tag: music-table
 --- 
 Inspired by [Mash Machine](https://www.youtube.com/watch?v=Rbl4x09_KlQ)
 

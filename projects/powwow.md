@@ -1,6 +1,7 @@
 ---
-layout: main
-header: PowWow
+layout: project
+projectTitle: PowWow
+tag: powwow
 --- 
 # PowWow
 
