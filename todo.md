@@ -10,6 +10,8 @@ header: ToDO
     - [add google analytics](https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages)
 - consider SEO and proper sitemapping so this could be discovered [link](https://jekyllrb.com/docs/step-by-step/10-deployment/)
 
+- amazing blog: [blobs](https://peeke.nl/revisiting-a-past-project)
+
 - Interesting other blogs
     - [atrsty?](https://artsy.github.io/)
     - [Simple and honest, sience and programming](https://arogozhnikov.github.io/)
