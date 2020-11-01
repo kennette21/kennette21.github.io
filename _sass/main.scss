@@ -82,6 +82,7 @@
   border-radius: 10px;
   margin: 1px 10px;
   text-decoration: lighten($color: #000000, $amount: 0);
+  transition: background-color .2s linear;
 
   &:hover {
     background-color: burlywood;
