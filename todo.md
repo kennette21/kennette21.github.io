@@ -5,17 +5,6 @@ header: ToDO
 # Steps to make this thing badass
 - Each page has a TODO section and it comes from a data file. An individual TODO can have status and tags which has it show up in certain places. status: done, won't do, todo. tags: projects, project title, UI, general (automatic)
 - Introduce multiple authors to the page...? Could ask willie for a colab type thing.. maybe if he writes a piece that ties together with something i am doing. A particular project maybe?? They could even write it at the bottom of the project page! How is that different from a comment? Differentiate the two maybe. [multiple authors link](https://jekyllrb.com/docs/step-by-step/09-collections/)
-- Do some cool CSS to the Project divs
-    - get some cool simple graphics for each one...
-    - nice fonts for the whole webpage
-    - extend main.html template, and think fo template for proj specfiic pages
-    - make the Portfolio separated from the rest of the nonses maybe.. descretly separated
-- should be able to tag posts so they show up in relevant spaces!
-    - in the data at the top of a file I can add tags. Should keep the list of tags in the _data folder probably.
-        - could add a dropdown to a posts page to extend the tags afterwards!
-        - even a text entry with ability to add new tags on the fly.
-    - I imagine posts to be a section at the bottom: "relevant posts"
-- FOOTER!
 - USAGE TRACKING
     - Lookup how to do usage tracking in github pages
     - [add google analytics](https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages)
@@ -63,6 +52,11 @@ header: ToDO
 
 
 # Done stuff
+- should be able to tag posts so they show up in relevant spaces!
+    - in the data at the top of a file I can add tags. Should keep the list of tags in the _data folder probably.
+        - could add a dropdown to a posts page to extend the tags afterwards!
+        - even a text entry with ability to add new tags on the fly.
+    - I imagine posts to be a section at the bottom: "relevant posts"
 - resarch markdown syntx and figure out how to do things like: bookmarks, spacing, url links etceterraaa.
     - how to drop html into md? 
 > **ANSWER:** yes you can put html directly into markdown, no need to indicate a switch
