@@ -5,19 +5,35 @@ tag: jarvis
 --- 
 Yes, the Jarvis from Iron Man. No, it is not original. Yes Jarvis from Iron Man deserves to be envied. 
 
-I want to make a better conversation program for helping with analysis paralyis when trying to decide what to cook, where to eat, or what to do on the weekend. 
+[Repo, much in development, and MUCH DIRTY CODE, appologies.](https://github.com/kennette21/jarvis)
 
-This consists of a structured list of candidates whether it be constructed from Google Map favorites, foursquare, etc, OR you can use my personal list. I hope it will be a nice list one day.
+I want to utilize computer voice interaction to tackle analysis paralyis when trying to decipher what possible plan resonates with my current moode the most. E.g. what to cook, where to eat, or what activities to do on the weekend. 
 
-- include some notes drawings?
+## How to Collect Activity Candidates
+Idealy I would construct a structured list of candidates from a variaty of sources like my Google Map favorites, go-to recipies, regular activities, etc. To start I can just use any nearby places and food on the internet, but I think it would be most effective if it was personal.
 
 ## Outstanding Issues
-- need to incorprate some recursion 
+- incorprating proper recursion, and nailing the audio steam window to not pick up too many extra words
+- reconsilign wake word detection and STT microphone loops into one. Using the snowboy configuration with Pythons SpeechRecognition library is not working on the Rasbery Pi 4. I could dig into the SpeechRecognition code and submit a fix, but not super motivated.
+- the list goes on...
 
-## Will it return???
-- I hope so. Although natural lanugage processing is difficult. Might just be a click operation thing :()
 
-
-# How to pick it back up?
+## How to pick it back up?
 - Extend the damn reccomendation lists (recipies, restaurants, and ...)
 - Incorprate recursion so the user can stop in the middle of the list.
+- use mycroft...
+
+# Upate! Nov 15 2020
+<iframe 
+    width="420" 
+    height="315"
+    src="https://tbportfolio.imfast.io/portfolio/jarvis/jarv_update.mp4"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+
+Enter [MYCROFT.AI](https://mycroft.ai/). I found this company last night while doing some research around this project and I would like to make the leap into this direction. I have had some fun playing with the Linux OS and messing with Microphones and ALSA sound, but I am mostly interested in diving into the world of Voice Interaction programs. Mycroft seems to lower the barrier to achieve a relatively robust and sophisticated system which I can extend with my own programs.
+
+I would love to incorperate my rudimentary Phillips Hue helper file into a Mycroft Skill as their are no Philips Hue skills yet.
+
+I would also love to bring in my
