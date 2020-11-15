@@ -5,6 +5,14 @@ tag: aux
 --- 
 ![](https://tbportfolio.imfast.io/portfolio/aux/Aux%20(1).png)
 ### Built by Jasen Choi and Tom Bean
+
+## Little Prezi Video Rundown
+<iframe src="https://prezi.com/v/embed/1zcmzml4nodk/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="315" width="560"></iframe>
+
+
+
+# Here is a bunch of text I wrote about the history and idea of this project.
+
 While studying abroad in Budapest at Aquincum Institue of Technology, my roomate and I built a music organization and sharing application. The initial concept was to make listing to music in groups more efficient. One phone is connected to the speaker, but anyone in the room could have good music recomendations for the occasion.
 
 The person playing the music starts an Aux Queue. This Aux Queue can be joined by someone in the group and they can queue up some of their favorite songs. This allows people to share music in groups with more ease.
