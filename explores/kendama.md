@@ -15,7 +15,7 @@ I look at kendama as a way to chase this dopamine hit that comes from success.
 <iframe 
     width="420" 
     height="315"
-    src="https://tbportfolio.imfast.io/portfolio/kendama/Apr23kenjam.mov"
+    src="https://tbportfolio.imfast.io/portfolio/kendama/Apr23kenjam.mp4"
     frameborder="0"
     allowfullscreen>
 </iframe>
