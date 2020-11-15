@@ -35,3 +35,6 @@ I took apart a 90s Yamaha Blaster, and converted it to an all electric 4 wheeler
 
 - That I love building things
 ![e-atv](https://tbportfolio.imfast.io/portfolio/e-atv/joy-ride.jpg)
+
+## Little Prezi Video summary:
+<iframe src="https://prezi.com/v/embed/oll2l8_xam5c/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="315" width="560"></iframe>
