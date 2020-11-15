@@ -1,20 +1,20 @@
-- name: J-Ball
+- name: j-ball
   hidden: false
-- name: Videos
+- name: videos
   hidden: false
-- name: Audiobooks
+- name: audiobooks
   hidden: false
-- name: Youtube
+- name: youtube
   hidden: true
-- name: Music
+- name: music
   hidden: false
-- name: Kendama
-  hidden: true
-- name: Infant projects
+- name: kendama
+  hidden: false
+- name: infant_projects
   hidden: true
 - name: Stimulation and Inspiration
   hidden: true
-- name: Doodles
+- name: doodles
   hidden: true
 - name: Pictures
   hidden: true

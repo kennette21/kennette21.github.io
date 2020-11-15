@@ -1,6 +1,6 @@
 ---
 layout: project
-projectTitle:
+projectTitle: videos
 --- 
 # I love making videos
 Here is a collection of some of my Snapchats/Vids from time gone by
