@@ -1,5 +1,7 @@
 - name: J-Ball
   hidden: false
+- name: Videos
+  hidden: false
 - name: Audiobooks
   hidden: false
 - name: Youtube
