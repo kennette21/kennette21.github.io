@@ -37,3 +37,15 @@ Enter [MYCROFT.AI](https://mycroft.ai/). I found this company last night while d
 I would love to incorperate my rudimentary Phillips Hue helper file into a Mycroft Skill as their are no Philips Hue skills yet.
 
 I would also love to bring in my
+
+# Update! Nov 16 4:30 AM 2020
+
+<iframe 
+    width="420" 
+    height="315"
+    src="https://tbportfolio.imfast.io/portfolio/jarvis/mycroft_working.mp4"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+
+finally got mycroft to work with respeaker 6 mic array. Helpful setup to install the mic drivers properly on the picroft raspi distro: [praise](https://github.com/adelhult/respeaker-with-picroft)
