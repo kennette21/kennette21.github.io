@@ -49,3 +49,7 @@ I would also love to bring in my
 </iframe>
 
 finally got mycroft to work with respeaker 6 mic array. Helpful setup to install the mic drivers properly on the picroft raspi distro: [praise](https://github.com/adelhult/respeaker-with-picroft)
+
+next steps:
+- write a skill for reccomending what to cook/eat based on a list of your favs and allow you to save more favs with your voice.
+- hook into the messaging bus to turn on the lights on the respeaker mic array to give some visual feedback to mycroft
