@@ -2,18 +2,25 @@
 layout: main
 header: What is this?
 ---
-# The Concept
+# Me
+I grew up on a farm in Iowa
+I currently live in Budapest, Hungary working as a Software Developer.
+
+I love to build things and learn how stuff works.
+
+# The Concept of this Place
 This is a public page where I share my projects: past, present and future.
 
 I will also display arbitrary parts of my life or things I find interesting.
 
 # The Why
-I find myself working on fun and exciting projects. I get pretty far with some, far enough for it to be considered a "success," or at least marginally interesting.
+In an effort to keep my hobbies fun, I work on anythign that excites me in the moment. This can be detrimental to progress for many reasons, two main ones: 
 
-In an effort to keep my hobbies fun, I work on anythign that excites me in the moment. This leads to starting many projects and working on existing ones speratically.
+1. Picking up a project that has been dormant for a while
+2. Actually wrapping up a project so it can be presented
 
-Two challenges I face:
-1. Picking the project up after being away from it for some time
-2. Wrapping a project in a professional manner in order to showcase it
+I want to use this portfolio to keep myself accountable while I work. 
 
-While I am working on the project, I am in the context, so I remember all the special things I have to do to make it work. After some time, I stop working on it and forget how to continue on effectively. I believe it is only 10% more work most of the time to wrap the project up, make it presentable. I hope this concious wrapping up effort will make it easier to return to past work.
+One way is through documenting my days of works as thoughts, so I can go back and refresh myself.
+
+Another is to display milestones here to give myself that feeling of completion that is so wonderful to shoot for.

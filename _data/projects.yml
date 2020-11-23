@@ -1,12 +1,15 @@
-- name: culture-blog
-  display-name: The Culture Blog
-  status: development
 - name: music-table
   display-name: Music Table
   status: dormant
 - name: jarvis
   display-name: Jarvis, Conversing Computer
   status: development
+- name: culture-blog
+  display-name: The Culture Blog
+  status: development
+- name: atv
+  display-name: Electric ATV Conversion
+  status: dormant
 - name: ifc
   display-name: Iowa Food Coop
   status: development
@@ -15,9 +18,6 @@
   status: dormant
 - name: aux
   display-name: Aux
-  status: dormant
-- name: atv
-  display-name: Electric ATV Conversion
   status: dormant
 - name: e-democracy
   display-name: E Democracy Build on Etherum

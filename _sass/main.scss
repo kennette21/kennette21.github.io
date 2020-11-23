@@ -1,6 +1,15 @@
+
+/* SCSS HEX */
+$xanadu: #667761ff;
+$ash-gray: #ACB7A7ff;
+$mint-cream: #f1f7edff;
+$eerie-black: #262322ff;
+$rajah: #ffa552ff;
+
 * {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
+  color: $eerie-black;
 
   h1 {
     font-weight: 700;
@@ -62,6 +71,7 @@
   }
 }
 
+// new nav!
 .new-nav-container {
   display: flex;
   flex-direction: row-reverse;
@@ -103,7 +113,7 @@
   display: flex;
   width: 90px;
   height: 40px;
-  background-color: skyblue;
+  background-color: $xanadu;
   align-items: center;
   border-radius: 10px;
   margin: 1px 10px;
@@ -111,22 +121,22 @@
   transition: background-color .2s linear;
 
   &:hover {
-    background-color: burlywood;
+    background-color: $ash-gray;
     text-decoration: darken($color: #000000, $amount: 0);
   }
 
   &.active {
-    background-color: darkblue;
+    background-color: $ash-gray;
   }
 }
 
 .nav-item-text {
   text-align: center;
   width: 100%;
-  color: black;
+  color: $mint-cream;
   
   .active & {
-    color: darkgrey;
+    color: $eerie-black;
   }
 }
 
