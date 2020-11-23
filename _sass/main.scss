@@ -62,6 +62,32 @@
   }
 }
 
+.new-nav-container {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.nav-title {
+  display: flex;
+
+  &:hover + .nav-top-layer {
+    visibility: visible;
+    opacity: 1;
+  }
+}
+
+.nav-top-layer {
+  display: flex;
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility .05s, opacity .3s linear;
+
+  &:hover {
+    visibility: visible;
+    opacity: 1;
+  }
+}
+
 .portfolio-container {
   display: flex;
   flex-flow: row;
@@ -175,5 +201,7 @@
     flex: 0 1 calc(15% - 8px);
   }
 }
+
+
 
 @import "wabble";

@@ -1,0 +1,14 @@
+<nav>
+</nav>
+<div class="new-nav-container">
+    <h1 class="nav-title">TB Port</h1>
+    <div class="nav-top-layer">
+        {% for item in site.data.navigation %}
+        <a href="{{ item.link }}" {% if page.url == item.link %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
+            <div class="nav-item-text">
+            {{ item.name }}
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+</div>
