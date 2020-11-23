@@ -23,7 +23,14 @@ I created a robotic mount for a camera tripod in order to take more interesting 
 
 #### 4 years later, i stand by my original comment
 
-## TODO: Proximity Olympics video.
+## Proximity Olympics
+<iframe 
+    width="420" 
+    height="315"
+    src="https://tbportfolio.imfast.io/portfolio/snapchat/proxi_olympics.mp4"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
 
 ## Outstanding Issues
 its in some dusty box in the back of the garage.
