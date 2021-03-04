@@ -29,6 +29,15 @@ $rajah: #ffa552ff;
   }
 }
 
+.static {
+  position:absolute;
+  background: white;
+}
+
+.static:hover {
+  opacity:0;
+}
+
 .page-container {
   max-width: 1000px;
   display: flex;

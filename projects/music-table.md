@@ -20,6 +20,11 @@ I guess we talked about how it is working with some people at the conference. Th
 
 [Github Repo](https://github.com/kennette21/music-table)
 
+# Animation
+<img class="static" src="https://tbportfolio.imfast.io/portfolio/music-table/0000.png">
+<img class="active" src="https://tbportfolio.imfast.io/portfolio/music-table/music_table_concept.gif">
+
+
 ## Outstanding Issues
 Quantizing was proving difficult as I was using python and something about the code was making Reaper really lag out. Maybe I could do somethign better with Abelton...?
 
