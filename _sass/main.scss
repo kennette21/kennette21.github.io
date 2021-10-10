@@ -10,6 +10,7 @@ $rajah: #ffa552ff;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   color: $eerie-black;
+  margin: 0px;
 
   h1 {
     font-weight: 700;
@@ -122,31 +123,28 @@ $rajah: #ffa552ff;
   display: flex;
   width: 90px;
   height: 40px;
-  background-color: $xanadu;
+  // background-color: $xanadu;
   align-items: center;
-  border-radius: 10px;
+  border-radius: 10px 10px 0 0;
+  border-bottom: 2px solid $ash-gray;
   margin: 1px 10px;
   text-decoration: lighten($color: #000000, $amount: 0);
-  transition: background-color .2s linear;
 
   &:hover {
-    background-color: $ash-gray;
+    border-bottom: 3px solid $ash-gray;
     text-decoration: darken($color: #000000, $amount: 0);
   }
 
   &.active {
-    background-color: $ash-gray;
+    border-bottom: 4px solid $xanadu;
+    // background-color: $ash-gray;
   }
 }
 
 .nav-item-text {
   text-align: center;
   width: 100%;
-  color: $mint-cream;
-  
-  .active & {
-    color: $eerie-black;
-  }
+  color: $eerie-black;
 }
 
 .nav-container {
@@ -155,6 +153,11 @@ $rajah: #ffa552ff;
 
 .header {
   margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 100px;
 }
 
 .explore-container {
