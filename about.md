@@ -1,6 +1,6 @@
 ---
 layout: main
-header: What is this?
+header: /?
 ---
 
 # Me

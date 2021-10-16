@@ -21,22 +21,24 @@
           <h1>{{ page.projectTitle }}</h1>
           {% include navigation.html %}
         </div>
-        <div class="project-and-posts">
-          <div class="project-content">
-              {{ content }}   
+        <div class="content-container">
+          <div class="project-and-posts">
+            <div class="project-content">
+                {{ content }}   
+            </div>
+            {% for tag in site.tags %}
+              {% if tag[0] == page.tag %}
+                <div class="posts-container">
+                  <h2>Relevant Posts</h2>
+                  <ul>
+                    {% for post in tag[1] %}
+                      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              {% endif %}
+            {% endfor %}
           </div>
-          {% for tag in site.tags %}
-            {% if tag[0] == page.tag %}
-              <div class="posts-container">
-                <h2>Relevant Posts</h2>
-                <ul>
-                  {% for post in tag[1] %}
-                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                  {% endfor %}
-                </ul>
-              </div>
-            {% endif %}
-          {% endfor %}
         </div>
         {% include navigation.html %}
     </div>

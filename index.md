@@ -1,7 +1,8 @@
 ---
 layout: main
-header: TBPortfolio
---- 
+header: Portfolio
+---
+
 <div class="portfolio-container">
     <div class="active-projects-list">
         <div class="separator"></div>
