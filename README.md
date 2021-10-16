@@ -1,5 +1,6 @@
 # kennette21.github.io
-This is my portfolio site which is currently under construction. 
+
+[This is my portfolio site which is currently under construction.](https://kennette21.github.io/)
 
 # how to develop this
 ### first run
