@@ -4,6 +4,8 @@ projectTitle: The Music Table
 tag: music-table
 ---
 
+[Github Repo](https://github.com/kennette21/music-table)
+
 Inspired by [Mash Machine](https://www.youtube.com/watch?v=Rbl4x09_KlQ)
 
 I saw the Mash Machine at the Crunch Conference in Budapest. I saw the guy who brought it play a song, and I was hooked. It took the playing out of the music and only left the composition of samples. It quantized everything I believe so it was easy to use.
@@ -19,8 +21,6 @@ I guess we talked about how it is working with some people at the conference. Th
     frameborder="0"
     allowfullscreen>
 </iframe>
-
-[Github Repo](https://github.com/kennette21/music-table)
 
 # Animation
 
