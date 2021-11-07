@@ -24,8 +24,5 @@ This is only a crude mvp ATM, so proceed knowing as much :)
 
 # A Presentation
 
-Here is a presentation I used to explain the concept after my 1 week mini-batch at [The Recurse Center](https://www.recurse.com/)
-
-<iframe width="1100" height="800" src="https://prezi.com/view/4m81_rq9pude/embed" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe>
-
+Here is a [presentation](https://prezi.com/view/UdC3AOJrShMF5UEw1ohT/) I used to explain the concept after my 1 week mini-batch at [The Recurse Center](https://www.recurse.com/)
 
