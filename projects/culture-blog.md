@@ -13,6 +13,7 @@ The Culture Blog is meant to allow individuals to put pieces which represent the
 
 This project is my first experiment with Event Sourcing. I wanted to see the pros and cons of such a data storage technique first hand. For those who are unaware:
 > The fundamental idea of Event Sourcing is that of ensuring every change to the state of an application is captured in an event object, and that these event objects are themselves stored in the sequence they were applied for the same lifetime as the application state itself.
+
 [From a great Martin Fowler article](https://martinfowler.com/eaaDev/EventSourcing.html)
 
 # The site
