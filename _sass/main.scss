@@ -7,17 +7,27 @@ $eerie-black: #262322ff;
 $rajah: #ffa552ff;
 
 * {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Noto Sans Ethiopic', sans-serif;
   font-weight: 400;
   color: $eerie-black;
   margin: 0px;
 
   h1 {
     font-weight: 700;
+    margin-bottom: 0.67em;
+    margin-top: 0.67em;
   }
 
   h2 {
     font-weight: 600;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+  }
+
+  h3 {
+    font-weight: 500;
+    margin-bottom: 0.3em;
+    margin-top: 0.3em;
   }
 
   ul {
